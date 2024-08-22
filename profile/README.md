@@ -12,4 +12,3 @@ Metallic is now a Cog Network service! You can find it [here.](https://github.co
 
 ### Developers
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner and main developer
-- [Device](https://github.com/e9x) - Developer
